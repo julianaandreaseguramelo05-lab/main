@@ -1,3 +1,37 @@
+# 💻 Trabajos Universitarios - ECI
 
+Bienvenido a mi repositorio de entregables y laboratorios académicos.
+
+---
+
+### 👤 Datos del Estudiante
+* **Nombre:** juliana andrea segura melo
+* **Carrera:** Ingeniería de estadistica
+* **Institución:** Escuela Colombiana de Ingeniería Julio Garavito
+
+---
+
+### 📚 Asignatura
+* **Materia:** Diseño de Datos y Algoritmos (DDYA)
+* **Lenguaje principal:** Python 🐍
+
+---
+
+### 💼 Equipo Laboratorio Lotomos
+* **Integrantes:** Felipe Beltrán Duque - Juan Sebastián Pulgarín Moreno - Juliana Andrea Segura Melo
+* **Carreras:** Ingeniería Sistemas y Estadística 
+
+---
+
+### 📁 Estructura del Repositorio
+
+| Carpeta | Descripción |
+| :--- | :--- |
+| `semana-1/` | Pruebas diagnósticas y conceptos iniciales |
+| `semana-2/` | Primer Laboratorio con Insert Sort |
+| `semana-3/` | Segundo Laboratorio con Busqueda Binaria y Teorema Maestro |
+---
+
+> 🚀 *Repositorio mantenido para el seguimiento y control de versiones de los laboratorios del semestre.*
 
 
